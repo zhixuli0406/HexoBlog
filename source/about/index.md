@@ -14,13 +14,13 @@ comments: false
 
 - 👨‍💻 All of my projects are available at [https://github.com/zhixuli0406](https://github.com/zhixuli0406)
 
-- 📝 I regularly write articles on [https://zhixuli.ddns.net/](https://zhixuli.ddns.net/)
+- 📝 I regularly write articles on [https://zhixu-li.com/](https://zhixu-li.com/)
 
 - 💬 Ask me about **React, Node.js, Material UI, Docker, Linux, Information Security**
 
 - 📫 How to reach me **zhixuli0406@gmail.com**
 
-- 📄 Know about my experiences [https://zhixuli.ddns.net/resume/](https://zhixuli.ddns.net/resume/)
+- 📄 Know about my experiences [https://zhixu-li.com/resume/](https://zhixu-li.com/resume/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

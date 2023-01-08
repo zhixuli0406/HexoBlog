@@ -146,7 +146,7 @@ sns:
 # Sidebar footer copyright info
 footer:
   # Set to false to hide.
-  copyright: '&copy; 2022 • <a href="https://zhixuli.ddns.net/resume/">Louis Li</a>'
+  copyright: '&copy; 2022 • <a href="https://zhixu-li.com//resume/">Louis Li</a>'
 
   # Set to false to hide Hexo link.
   powered: true
