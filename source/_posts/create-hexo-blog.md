@@ -215,7 +215,7 @@ hexo clean
 hexo server
 ```
 
-- 在本地端啟動 Hexo 伺服器，預設路徑為：http://localhost:4000/。
+- 在本地端啟動 Hexo 伺服器，預設路徑為：<http://localhost:4000/>。
 - 可以用來預覽編輯，在部屬前先查看結果，使用 CTRL + C 可關閉。
 
 ## 結語
